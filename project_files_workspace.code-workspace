@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.autoComplete.addBrackets": true,
+		"python.autoComplete.extraPaths": [
+			"C:\\Users\\TYDACOMM_DT9\\Music\\automate\\automation_tool_production\\apc\\Lib\\site-packages",
+			"C:\\Users\\TYDACOMM_DT9\\Music\\automate\\automation_tool_production\\apc\\apc_modules"
+		]
+	},
+	
+}
